@@ -18,3 +18,4 @@ tekepen and dumbo's helloworld slightly modified for running on mapper 0 flash c
   then build with nesasm.
 That is all. Enjoy!
 </PRE>
+<img src=https://github.com/cobwebkanamachi/nes-helloworld-mapper0/blob/main/hw.jpg>
