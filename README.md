@@ -22,3 +22,4 @@ That is all. Enjoy!
 notice:<BR>
 I use this flash cart "レトロダンパー ファミコン用「FCマッパー0 Ver.1 フラッシュカートリッジ」 ゲームバンクウェブドットコム Gamebank-web.com".<BR>
 And I use this dumper for read and write cart.レトロダンパー 「FC ダンパー V4.1」 ファミコン Famicom ファミリーコンピュータ(Family Computer) ●USBケーブル(Type-C)50cm付属● RetroDumper<BR>
+Sorry that were not kazzo or tuna or raspbery pi.
