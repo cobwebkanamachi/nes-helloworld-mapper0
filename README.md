@@ -9,8 +9,8 @@ tekepen and dumbo's helloworld slightly modified for running on mapper 0 flash c
 3. slightly mod.
    original:
    > ; 起動
-	 > .bank 0    ; バンク0
-	 > .org $8000 ; $8000から開始
+   > .bank 0    ; バンク0 
+   > .org $8000 ; $8000から開始
    > ; リセット割り込み
    > Reset:
   changed:
