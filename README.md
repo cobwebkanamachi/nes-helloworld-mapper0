@@ -13,7 +13,7 @@ tekepen and dumbo's helloworld slightly modified for running on mapper 0 flash c
    > .org $8000 ; $8000から開始
    > ; リセット割り込み
    > Reset:
-  changed:
+  changed(changed .org one line only, other lines are same):
    > .org $C000 ; $C000から開始
   then build with nesasm.
 That is all. Enjoy!
